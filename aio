@@ -177,10 +177,10 @@ cd
 
 #Ambil Core
 cd /usr/sbin
-curl https://raw.githubusercontent.com/myzhero/aiovpn/main/files/xray > xray
+curl https://raw.githubusercontent.com/Rerechan02/Rerechan02/main/xray > xray
 chmod +x *
 cd /usr/local/bin
-curl https://raw.githubusercontent.com/myzhero/aiovpn/main/files/xray > xray
+curl https://raw.githubusercontent.com/Rerechan02/Rerechan02/main/xray > xray
 sleep 0.1
 cd
 clear
