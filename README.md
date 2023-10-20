@@ -4,7 +4,7 @@
 <b>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/0cd2f21fc503b748258c8.png" width="150" alt="Hayuk"/></a></p>
 
-![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
+![zhero card name](https://cardivo.vercel.app/api?name=Rerechan%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=myzhero&pattern=leaf&colorPattern=%23eaeaea)
 </b>
 
 
@@ -16,19 +16,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=R+E+R+E+C+H+A+N+0+2" />
 </p>
-<div height='45' align="center">
-<h2>Donate me via trakteer: <br>
-<a href="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg"> <img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg" height='50'> </a>
-</h2>
-<h2>Contact me: <br>
-<a href="https://github.com/Rerechan02"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://facebook.com/Rerechan"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-</h2>
-<!---
-fisabiliyusri/fisabiliyusri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br><br>
 
   You can reach me here:<br><br>
   <a href="mailto: widyabakti02@gmail.com" style="text-decoration: none;">
